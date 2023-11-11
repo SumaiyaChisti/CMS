@@ -112,7 +112,7 @@
                               transform="translate(19.000000, 11.000000) rotate(-300.000000) translate(-19.000000, -11.000000) "
                             >
                               <use fill="#696cff" xlink:href="#path-5"></use>
-                              <use fill-opacity="0.2" fill="#FFFFFF" xlink:href="#path-5"></use>
+                              <use fill-opacity="0.2" fill="#FFFFF" xlink:href="#path-5"></use>
                             </g>
                           </g>
                         </g>
